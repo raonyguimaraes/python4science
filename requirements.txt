@@ -1,0 +1,12 @@
+numpy
+scipy
+scikitlearn
+beautifulsoup4
+requests
+sqlalchemy
+cogent
+mysql-python
+rpy2
+matplotlib
+bokeh
+Pyside
