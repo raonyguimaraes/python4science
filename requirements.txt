@@ -1,6 +1,6 @@
 numpy
 scipy
-scikitlearn
+scikit-learn
 beautifulsoup4
 requests
 sqlalchemy
