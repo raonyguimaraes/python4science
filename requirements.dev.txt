@@ -1,4 +1,5 @@
-ls
+jsonschema
+ipython
 numpy
 scipy
 scikit-learn
